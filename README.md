@@ -51,3 +51,8 @@ Los bits obtenidos se unen en un array, y se redimensiona el array según las di
 **Archivos de Salida**
 -	Resultado de la correlación.
 -	Imagen original watermark.
+
+# Sources
+
+* [О классификации методов преобразования Фурье на примерах их программной реализации средствами Python](https://habr.com/ru/articles/338704/)
+* [Fourier transform in python](https://www.pythonsos.com/numeric-computing/fourier-transform-in-python/?expand_article=1)
